@@ -1,0 +1,41 @@
+id_alert,lintang,bujur,tutupan_awan_persen,driver_prediksi,keyakinan,driver_sebenarnya,status
+ALR-001,-4.1515,121.6874,52,Kebakaran Hutan,1.00,Kebakaran Hutan,OTOMATIS
+ALR-002,-3.9764,121.7927,43,Tambang Nikel Terbuka,1.00,Tambang Nikel Terbuka,OTOMATIS
+ALR-003,-4.2479,121.8809,66,Tambang Nikel Terbuka,1.00,Tambang Nikel Terbuka,OTOMATIS
+ALR-004,-3.9186,121.7996,1,Pembukaan Jalan,1.00,Pembukaan Jalan,OTOMATIS
+ALR-005,-4.2349,121.6868,44,Perkebunan Skala Besar,1.00,Perkebunan Skala Besar,OTOMATIS
+ALR-006,-3.9138,121.7687,36,Ladang Skala Kecil,1.00,Ladang Skala Kecil,OTOMATIS
+ALR-007,-4.0797,121.8821,19,Tambang Nikel Terbuka,1.00,Tambang Nikel Terbuka,OTOMATIS
+ALR-008,-3.9870,121.7734,59,Perkebunan Skala Besar,1.00,Perkebunan Skala Besar,OTOMATIS
+ALR-009,-4.1503,121.8274,43,Pembukaan Jalan,1.00,Pembukaan Jalan,OTOMATIS
+ALR-010,-4.2853,121.7884,29,Perkebunan Skala Besar,1.00,Perkebunan Skala Besar,OTOMATIS
+ALR-011,-4.1976,121.8144,20,Kebakaran Hutan,1.00,Kebakaran Hutan,OTOMATIS
+ALR-012,-4.1163,121.7321,87,Pembukaan Jalan,1.00,Pembukaan Jalan,OTOMATIS
+ALR-013,-4.2274,121.7108,79,Pembukaan Jalan,0.53,Pembukaan Jalan,PERLU VERIFIKASI LAPANGAN
+ALR-014,-4.0961,121.9186,60,Kebakaran Hutan,1.00,Kebakaran Hutan,OTOMATIS
+ALR-015,-3.9706,121.8228,34,Pembukaan Jalan,0.99,Pembukaan Jalan,OTOMATIS
+ALR-016,-4.1881,121.7692,94,Tambang Nikel Terbuka,0.99,Tambang Nikel Terbuka,OTOMATIS
+ALR-017,-4.1720,121.8155,56,Kebakaran Hutan,1.00,Kebakaran Hutan,OTOMATIS
+ALR-018,-4.0552,121.9311,43,Pembukaan Jalan,1.00,Pembukaan Jalan,OTOMATIS
+ALR-019,-4.0170,121.9318,90,Tambang Nikel Terbuka,0.99,Tambang Nikel Terbuka,OTOMATIS
+ALR-020,-4.1562,121.8767,31,Perkebunan Skala Besar,1.00,Perkebunan Skala Besar,OTOMATIS
+ALR-021,-4.0787,121.7846,69,Tambang Nikel Terbuka,1.00,Tambang Nikel Terbuka,OTOMATIS
+ALR-022,-3.9067,121.7295,31,Kebakaran Hutan,1.00,Kebakaran Hutan,OTOMATIS
+ALR-023,-4.0685,121.6695,26,Pembukaan Jalan,1.00,Pembukaan Jalan,OTOMATIS
+ALR-024,-4.2602,121.7612,70,Kebakaran Hutan,1.00,Kebakaran Hutan,OTOMATIS
+ALR-025,-4.0539,121.8863,22,Perkebunan Skala Besar,1.00,Perkebunan Skala Besar,OTOMATIS
+ALR-026,-4.0479,121.7355,49,Pembukaan Jalan,1.00,Pembukaan Jalan,OTOMATIS
+ALR-027,-4.0286,121.9498,58,Pembukaan Jalan,1.00,Pembukaan Jalan,OTOMATIS
+ALR-028,-4.0280,121.9476,18,Pembukaan Jalan,1.00,Pembukaan Jalan,OTOMATIS
+ALR-029,-4.0873,121.8961,73,Tambang Nikel Terbuka,1.00,Tambang Nikel Terbuka,OTOMATIS
+ALR-030,-4.0227,121.6748,54,Ladang Skala Kecil,1.00,Ladang Skala Kecil,OTOMATIS
+ALR-031,-4.1117,121.7527,62,Pembukaan Jalan,1.00,Pembukaan Jalan,OTOMATIS
+ALR-032,-4.2035,121.9087,37,Kebakaran Hutan,1.00,Kebakaran Hutan,OTOMATIS
+ALR-033,-4.2188,121.8657,42,Pembukaan Jalan,1.00,Pembukaan Jalan,OTOMATIS
+ALR-034,-4.0475,121.6747,49,Ladang Skala Kecil,1.00,Ladang Skala Kecil,OTOMATIS
+ALR-035,-4.0916,121.7964,46,Ladang Skala Kecil,1.00,Ladang Skala Kecil,OTOMATIS
+ALR-036,-3.9611,121.7837,67,Perkebunan Skala Besar,1.00,Perkebunan Skala Besar,OTOMATIS
+ALR-037,-3.9873,121.7766,57,Tambang Nikel Terbuka,1.00,Tambang Nikel Terbuka,OTOMATIS
+ALR-038,-4.2850,121.7818,41,Perkebunan Skala Besar,1.00,Perkebunan Skala Besar,OTOMATIS
+ALR-039,-3.9632,121.8864,0,Tambang Nikel Terbuka,1.00,Tambang Nikel Terbuka,OTOMATIS
+ALR-040,-4.0352,121.7388,79,Perkebunan Skala Besar,1.00,Perkebunan Skala Besar,OTOMATIS
